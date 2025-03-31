@@ -10,7 +10,7 @@ Ce projet illustre l'utilisation de **GSAP (GreenSock Animation Platform)** pour
 ---
 
 ## 🚀 **Démo en ligne**
-👉 [https://ton-utilisateur.github.io/gsap-test/]
+👉 https://maxcorni.github.io/gsap-test/
 
 ---
 
